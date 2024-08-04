@@ -1,2 +1,2 @@
 # Website
-[noteIt_website](https://barkaaat.github.io/noteit_website/)
+[noteIt](https://barkaaat.github.io/noteit_website/)
