@@ -1,5 +1,5 @@
 # Website
-[noteIt](https://barkaaat.github.io/noteit_website/)
+You can simply see the webiste on this link [noteIt](https://barkaaat.github.io/noteit_website/)
 
 
 
